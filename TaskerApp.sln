@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskerApp", "TaskerApp\TaskerApp.csproj", "{D2FBA35B-F3A7-4C55-90E7-48D79A5769AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FBA35B-F3A7-4C55-90E7-48D79A5769AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FBA35B-F3A7-4C55-90E7-48D79A5769AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FBA35B-F3A7-4C55-90E7-48D79A5769AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FBA35B-F3A7-4C55-90E7-48D79A5769AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3206AD09-931A-4AC9-A66A-D7AB24FB7705}
+	EndGlobalSection
+EndGlobal
